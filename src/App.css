@@ -4,3 +4,14 @@
   padding: 2rem;
   text-align: center;
 }
+
+.App {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+}
+
+.input-field {
+  margin: 0 20px;
+}
